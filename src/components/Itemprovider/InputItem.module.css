@@ -1,0 +1,19 @@
+.Rode {
+  display: inline-block;
+  margin: 0 10px;
+  background-color: burlywood;
+  font-weight: 200;
+  width: max-content;
+  max-width: fit-content;
+  border: 3px solid black;
+}
+input {
+  margin: 5px 3px;
+  border: 2px solid black;
+}
+label {
+  font-weight: 500px;
+  font-size: large;
+  font-display: bold;
+  color: white;
+}

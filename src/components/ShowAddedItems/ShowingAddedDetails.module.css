@@ -1,0 +1,9 @@
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.app {
+  text-align: center;
+  border: 3px solid black;
+}

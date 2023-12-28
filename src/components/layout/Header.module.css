@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 21%;
+  margin-right: 21%;
+  margin-bottom: 0.5%;
+  background-color: wheat;
+  border: 2px solid;
+}
